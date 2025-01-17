@@ -1,4 +1,4 @@
-![VGDS Design · Vietnam Government Design System](/vgds-cover.png "VGDS Design · Vietnam Government Design System")
+![VGDS Design · Vietnam Government Design System](/profile/vgds-cover.png "VGDS Design · Vietnam Government Design System")
 
 # VGDS Design · Vietnam Government Design System
 
