@@ -31,6 +31,8 @@ Follow us on social media to stay updated on our latest initiatives and projects
 - **GitHub:** [github.com/vgds-design](https://github.com/vgds-design)
 - **Behance:** [behance.net/vgds_design](https://www.behance.net/vgds_design)
 - **YouTube:** [youtube.com/@vgds-design](https://www.youtube.com/@vgds-design)
+- **Medium:** [medium.com/@vgds.design](https://medium.com/@vgds.design)
+- **Figma:** [figma.com/@vgds_design](https://www.figma.com/@vgds_design)
 
 ---
 
