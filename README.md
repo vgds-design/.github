@@ -8,7 +8,7 @@ Explore the website: [vgds.design](https://vgds.design/)
 
 ---
 
-## Key Features
+## Key features
 
 - **Unified Design Framework:** Provides a standardized approach to enhance and streamline government digital platforms.
 - **Accessibility and User-Centric Focus:** Prioritizes inclusivity and usability to ensure digital services meet diverse user needs.
