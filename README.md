@@ -33,7 +33,8 @@ Follow us on social media to stay updated on our latest initiatives and projects
 - **YouTube:** [youtube.com/@vgds-design](https://www.youtube.com/@vgds-design)
 - **Medium:** [medium.com/@vgds.design](https://medium.com/@vgds.design)
 - **Figma:** [figma.com/@vgds_design](https://www.figma.com/@vgds_design)
-
+- **Instagram:** [instagram.com/vgds.design](https://www.instagram.com/vgds.design)
+  
 ---
 
 VGDS embodies a shared commitment to transforming Vietnam's digital public services, fostering collaboration, and driving innovation. Join the movement to redefine digital governance for a more efficient, transparent, and user-focused future.
