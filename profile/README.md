@@ -35,6 +35,7 @@ Follow us on social media to stay updated on our latest initiatives and projects
 - **Figma:** [figma.com/@vgds_design](https://www.figma.com/@vgds_design)
 - **Instagram:** [instagram.com/vgds.design](https://www.instagram.com/vgds.design)
 - **Threads:** [threads.net/@vgds.design](https://www.threads.net/@vgds.design)
+- **X:** [x.com/vgds_design](https://x.com/vgds_design)
 
 ---
 
