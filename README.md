@@ -4,7 +4,7 @@
 
 > The Vietnam Government Design System (VGDS) is an unofficial, community-driven initiative developed by Vietnamese designers and developers. This non-profit project aims to establish a unified design system to elevate the quality and efficiency of Vietnam's government digital services, fostering a more modern, user-friendly, and accessible digital administration.
 
-Explore the website: [vgds.design](https://vgds.design/)
+Explore the website: [vgds.design](https://vgds.design/) or [vgds.dev](https://vgds.dev/)
 
 ---
 
@@ -35,7 +35,6 @@ Follow us on social media to stay updated on our latest initiatives and projects
 - **Figma:** [figma.com/@vgds_design](https://www.figma.com/@vgds_design)
 - **Instagram:** [instagram.com/vgds.design](https://www.instagram.com/vgds.design)
 - **Threads:** [threads.net/@vgds.design](https://www.threads.net/@vgds.design)
-- **X:** [x.com/vgds_design](https://x.com/vgds_design)
   
 ---
 
